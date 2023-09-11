@@ -12,3 +12,5 @@ Bash shell scripts .
 C shell scripting , koch Schell scriptin , c shell Scripting.
 
 Native Shell 
+
+Bash Schell script is working with OS system .
