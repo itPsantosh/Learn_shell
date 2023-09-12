@@ -18,3 +18,6 @@ Bash Schell script is working with OS system .
 Git Push and Git Pull in Nodes (instances)
  Git Push and Pull  Request work  with Nodes(Instance)
 where is frontend ,Mysql and  Backend.
+
+
+Printing with echo command
