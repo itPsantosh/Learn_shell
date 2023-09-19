@@ -14,9 +14,11 @@
 
   a = 20
 
-  #how to acess the variable
+  #how to access the variable
 
   echo value of a = $a
+
+
 
 
 
