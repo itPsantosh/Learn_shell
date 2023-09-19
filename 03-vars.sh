@@ -1,7 +1,7 @@
  #if we name some data is called a variable .
 
 
- # syntax to decleare variable
+ # syntax to declear variable
   vars_name = value of variable
 
   x = 1000
